@@ -9,9 +9,9 @@ buildscript {
   }
 }
 
-// plugins {
-//   id "org.jetbrains.gradle.plugin.idea-ext" version "1.1.7"
-// }
+ plugins {
+   id "org.jetbrains.gradle.plugin.idea-ext" version "1.1.7"
+ }
 
 // task wrapper(type: Wrapper) {
 //   gradleVersion = '4.6'
